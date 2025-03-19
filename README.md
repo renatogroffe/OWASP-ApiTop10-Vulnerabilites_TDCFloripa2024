@@ -7,7 +7,7 @@ Título da apresentação: **OWASP API Security Top 10: recomendações importan
 
 Evento: **TDC Florianópolis 2024**
 
-Data: **12/06/2024 (terça-feira)**
+Data: **12/06/2024 (quarta-feira)**
 
 Tipo do evento: **Online**
 
