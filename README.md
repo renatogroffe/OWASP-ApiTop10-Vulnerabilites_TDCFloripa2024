@@ -3,7 +3,9 @@
 
 ---
 
-Link do evento:
+Data: **12/06/2024 (terça-feira)**
+
+Link do evento: **https://promo.thedevconf.com/flp24-microsoft**
 
 ---
 
@@ -12,3 +14,5 @@ Link do evento:
 ![Renato e Walter palestrando 2](img/o-01.png)
 
 ![Renato e Walter palestrando 3](img/o-04.png)
+
+![Divulgação](img/divulgacao.png)
