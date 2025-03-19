@@ -17,6 +17,8 @@ Tecnologias e tópicos abordados: **.NET, ASP.NET Core, OWASP API Security Top 1
 
 Link do evento: **https://promo.thedevconf.com/flp24-microsoft**
 
+Deixamos aqui nossos agradecimentos ao **Rogério Rodrigues** por todo o apoio para que participássemos como palestrantes de mais uma edição do **TDC**.
+
 ---
 
 ![Renato e Walter palestrando 1](img/audiencia.png)
