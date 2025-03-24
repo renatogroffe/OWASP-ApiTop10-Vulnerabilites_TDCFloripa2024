@@ -15,6 +15,8 @@ Ferramenta de transmissão: **Restream**
 
 Tecnologias e tópicos abordados: **.NET, ASP.NET Core, OWASP API Security Top 10, JWT, Cybersecurity, API Gateways, Rate Limit, Resiliência, Azure API Management, Microsoft Entra ID...**
 
+Número de participantes: **33 pessoas (pico de audiência ao longo da live)**
+
 Link do evento: **https://promo.thedevconf.com/flp24-microsoft**
 
 Deixamos aqui nossos agradecimentos ao **Rogério Rodrigues** por todo o apoio para que participássemos como palestrantes de mais uma edição do **TDC**.
