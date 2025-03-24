@@ -19,6 +19,8 @@ Número de participantes: **33 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: **https://promo.thedevconf.com/flp24-microsoft**
 
+Esta palestra foi realizada em conjunto com meu amigo **Walter Coan (Microsoft MVP)**.
+
 Deixamos aqui nossos agradecimentos ao **Rogério Rodrigues** por todo o apoio para que participássemos como palestrantes de mais uma edição do **TDC**.
 
 ---
